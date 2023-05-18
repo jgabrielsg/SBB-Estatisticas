@@ -3,6 +3,8 @@ Programa que faz a soma de dicionários em Python e importa os dados para um CSV
 
 Para utilizar o programa, baixe essa pasta pelo Git Bash ou seu Prompt de Comando com o comando `git clone https://github.com/jgabrielsg/SBB-Estatisticas` e todas as pastas e arquivos serão instalados no seu computador. Se preferir, pode copiar o código direto do arquivo "soma.py" e colocar no VS Code, Spyder e afins e criar as pastas "Jovem" e "SBB" no mesmo diretório (pasta) que estiver o "soma.py" e colocar pastas com os txt de cada rodada dentro, seguindo a padronização daqui.
 
+Ademais, é possível baixar por zip clicando no botão verde "Code" e instalando por lá.
+
 ---
 
 ## Funcionamento
